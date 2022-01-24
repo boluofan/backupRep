@@ -1,0 +1,12 @@
+2021-12-28 14:56:59 jdbc[17]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "THEME_SETTINGS[*]"; expected "TRUNCATE, {"; SQL statement:
+THEME_SETTINGS [42001-196]
+2021-12-28 14:57:09 jdbc[17]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "THEME_SETTINGS[*]"; expected "TRUNCATE, {"; SQL statement:
+THEME_SETTINGS [42001-196]
+2021-12-28 14:57:19 jdbc[17]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement """flyway_schema_history""[*]"; expected "FROM, {"; SQL statement:
+"flyway_schema_history" [42001-196]
+2021-12-28 14:57:29 jdbc[17]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "POSTS[*]"; expected "PREPARE, {"; SQL statement:
+POSTS [42001-196]
